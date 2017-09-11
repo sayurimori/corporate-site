@@ -314,6 +314,9 @@ h1 {
     color: #626262;
     font-size: 1.4rem;
 }
+#contents #main th {
+    padding-right: 20px;
+}
 
 #contents #main .news_li {
     font-size: 15px;
@@ -356,4 +359,13 @@ h1 {
 #contents {
     padding-top: 20px;
 }
+}
+#cover_area{
+  height: 420px;
+  padding: 0;
+  text-align:left;
+}
+#cover_area img {
+    margin-left: 70px;
+    margin-top: 180px;
 }
